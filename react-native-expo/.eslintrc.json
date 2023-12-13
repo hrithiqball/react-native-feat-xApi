@@ -1,0 +1,7 @@
+{
+  "extends": ["eslint:recommended"],
+  "globals": {
+    "React": "readonly"
+  },
+  "rules": { "no-unused-vars": "warn", "no-unused-expressions": "warn" }
+}
