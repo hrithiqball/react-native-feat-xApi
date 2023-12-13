@@ -1,0 +1,7 @@
+{
+	"cSpell.words": ["nativewind", "tailwindcss", "xapi"],
+	"material-icon-theme.activeIconPack": "react_redux",
+	"material-icon-theme.folders.associations": {
+		"(tabs)": "routes"
+	}
+}

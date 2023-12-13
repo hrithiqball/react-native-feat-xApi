@@ -27,7 +27,7 @@
     "isolatedModules": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["./*"]
     }
   },
   "exclude": ["./node_modules/**/*", "e2e/**/*.ts"],
